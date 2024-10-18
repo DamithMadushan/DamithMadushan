@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DamithMadushan](https://github.com/DamithMadushan)
 
-- 💬 Ask me about **React, .NET and JavaScript**
+- 🔭 Check out my Play Store profile [https://play.google.com/store/apps/developer?id=PixelCodeStudios](https://play.google.com/store/apps/developer?id=PixelCodeStudios)
 
-- 📫 How to reach me **contact@pixelcodestudios.com**
+- 📫 How to reach me **damithmadushan22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
